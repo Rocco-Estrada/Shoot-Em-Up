@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/roccoestrada/dev/cst326/Shoot 'Em Up/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
